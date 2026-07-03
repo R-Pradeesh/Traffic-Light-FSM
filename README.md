@@ -54,7 +54,7 @@ gtkwave traffic_light.vcd
 
 ## Simulation Result
 
-![Waveform](waveforms/traffic_light_waveform.png)
+![Waveform](waveform/traffic_light_waveform.png)
 
 ## Author
 
